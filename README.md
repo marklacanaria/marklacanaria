@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋I'm a dedicated full-time student on the path to becoming a proficient programmer hailing from the Philippines. My current focus is on honing my skills in web development, Java programming, video editing, and game development.</h1>
+<h2 align="center">Hi 👋I'm a dedicated full-time student on the path to becoming a proficient programmer hailing from the Philippines. My current focus is on honing my skills in web development, Java programming, video editing, and game development.</h2>
 
 ###
 
@@ -30,5 +30,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
   </a>
 </div>
-
-###
