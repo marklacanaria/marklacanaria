@@ -1,12 +1,8 @@
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<div align="center" style="font-family: 'Courier New', Courier, monospace;">
-  <i>Hi 👋I'm a dedicated full-time student on the path to becoming a proficient programmer hailing from the Philippines. My current focus is on honing my skills in web development, Java programming, video editing, and game development.</i>
-</div>
 
+<p align="center"><img style="width: 80%" src="./assets/terminal.gif" alt="terminal cv gif" />
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76112ttqq3rhbv4igqfr8x1m09okmftdmbkrydqv76tx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -45,6 +41,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marklacanaria&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+<img align="left" height="100" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76112ttqq3rhbv4igqfr8x1m09okmftdmbkrydqv76tx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
