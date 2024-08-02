@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋I'm a dedicated full-time student on the path to becoming a proficient programmer hailing from the Philippines. My current focus is on honing my skills in web development, Java programming, video editing, and game development.</h2>
+<h3 align="center">Hi 👋I'm a dedicated full-time student on the path to becoming a proficient programmer hailing from the Philippines. My current focus is on honing my skills in web development, Java programming, video editing, and game development.</h3>
 
 ###
 
