@@ -1,7 +1,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-<p align="center"><img style="width: 80%" src="./assets/terminal.gif" alt="terminal cv gif" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<YourUsername>/<YourRepo>/main/terminal.svg" alt="terminal animation" />
+</p>
 
 
 ###
