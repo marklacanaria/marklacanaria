@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marklacanaria/marklacanaria.git/main/terminal.svg" alt="terminal animation" />
+  <img src="https://raw.githubusercontent.com/marklacanaria/main/terminal.svg" alt="terminal animation" />
 </p>
 
 
