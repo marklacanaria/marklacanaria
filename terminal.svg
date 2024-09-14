@@ -1,5 +1,6 @@
 <svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="300" fill="#000" />
+  <!-- Removed the black background -->
+
   <text fill="#fff" font-family="monospace" font-size="24" x="20" y="40">Welcome to My GitHub Profile</text>
   <text fill="#fff" font-family="monospace" font-size="24" x="20" y="80">Fetching latest code...</text>
 
