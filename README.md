@@ -1,9 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/marklacanaria/marklacanaria/main/terminal.svg" />
 </p>
+-->
 
 
 ###
@@ -36,10 +37,15 @@
   </a>
 </div>
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marklacanaria&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+##
+<!-- snake graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marklacanaria/marklacanaria/blob/main/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/marklacanaria/marklacanaria/blob/main/assets/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marklacanaria&icon=0&color=0)](https://visitcount.itsvg.in)
