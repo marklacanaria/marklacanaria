@@ -5,7 +5,13 @@
   <img src="https://raw.githubusercontent.com/marklacanaria/marklacanaria/main/terminal.svg" />
 </p>
 -->
+###
 
+<div align="center">
+  <img src="https://github.com/marklacanaria/marklacanaria/blob/main/assets/shibabanner1x1.gif" alt="Description" width="250">
+</div>
+
+<br>
 
 ###
 
@@ -49,8 +55,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marklacanaria&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ###
-<img align="left" height="100" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76112ttqq3rhbv4igqfr8x1m09okmftdmbkrydqv76tx&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
