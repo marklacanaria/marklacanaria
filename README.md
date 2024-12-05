@@ -6,13 +6,13 @@
 </p>
 -->
 ###
-
+<!--
 <div align="center">
   <img src="https://github.com/marklacanaria/marklacanaria/blob/main/assets/shibabanner1x1.gif" alt="Description" width="250">
 </div>
 
 <br>
-
+-->
 ###
 
 <div align="center">
